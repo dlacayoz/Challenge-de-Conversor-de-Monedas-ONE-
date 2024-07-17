@@ -15,11 +15,11 @@ El menú muestra las siguientes opciones:
 
 # 📋 Ejemplos 
 
-## Convertir de Dolar a Peso Chileno 
+## Convertir de Dólar a Peso Chileno 
 
 ![Descripción de la imagen](imagenes/convertirDeDolarAPesoChileno.jpg)
 
-## Convertir de Peso Chileno a Dolar 
+## Convertir de Peso Chileno a Dólar 
 
 ![Descripción de la imagen](imagenes/pesochilenoadolar.jpg)
 
@@ -49,8 +49,7 @@ Antes de ejecutar el programa, asegúrate de configurar la variable API_KEY en C
 
 # 📧 Autor
 
-- Claudio Machuca
-- claudio.a97@outlook.es
+- Daniel Lacayo
 - Formacion Java Orientado a Objetos G6 - ONE
 - Alura Latam
 - Oracle Next Education
